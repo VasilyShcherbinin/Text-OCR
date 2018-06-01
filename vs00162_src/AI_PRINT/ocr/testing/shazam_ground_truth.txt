@@ -1,0 +1,9 @@
+Nvidia‘s graphics chips aren’t used just for games anymore. Since the company made its chips programmable, they are taking on functions that Intel microprocessors do. And more than ever, they are being used for Big Data number crunching and solving problems that previously had to be done by non-graphics supercomputers.
+
+Jen-Hsun Huang (pictured), chief executive of Nvidia, said in a keynote speech at the company’s GPU Tech conference that top enterprise  and mobile app companies are using GPUs (graphics processing units) to handle Big Data analytics, advance search, and tasks like face recognition. These applications are spread across the commercial and consumer spaces.
+
+Customers who are using Nvidia GPUs in servers made by computer makers include Shazam, Salesforce.com and Cortexica. They are using Nvidia Tesla GPUs for computing tasks beyond traditional graphics processing. The problems at hand include audio search, such as Shazam’s service that tells you what song you’re listening to on the radio.
+
+“GPUs enable us to handle our tremendous processing needs at a substantial cost savings, delivering twice the performance per dollar compared to a CPU-based system,” said Jason Titus, chief technology officer of Shazam Entertainment. “We are adding millions of video and foreign language audio tracks to our existing services, and GPU accelerators give us a way to achieve scalable growth.”
+
+Shazam can identify the “acoustic fingerprint” of songs from a 27 million track database and then serve answers to 300 million users. People are doing 10 million song searches a day.
