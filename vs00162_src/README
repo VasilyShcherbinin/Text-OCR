@@ -1,7 +1,7 @@
-AI_PRINT 				Convert image of text into digital format
-AI_HANDWRITING	Convert image of handwritten text into digital format
-AI_SIGNATURE		Recognize signature
-AI_WRITERID			Recognize text author by handwriting
+AI_PRINT        Convert image of text into digital format
+AI_HANDWRITING  Convert image of handwritten text into digital format
+AI_SIGNATURE    Recognize signature
+AI_WRITERID     Recognize text author by handwriting
 
 1. Launch extract_char.py, altering file choice to extract letters from.
 2. Launch classifiers.py - alter classifier and HOG value parameters.
